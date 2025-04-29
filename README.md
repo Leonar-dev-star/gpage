@@ -1,1 +1,1 @@
-Nombre grado y grupo
+Leonardo García Sánchez 2AMpr
